@@ -27,3 +27,9 @@ IPython
 jqdatasdk
 fastcache
 statsmodels
+tushare
+pytdx
+pyzmq>=18.1.1
+notebook>=6.0.3
+pywin32<=223
+

@@ -1,8 +1,10 @@
-
+this is fork from \\git.hub.com\yutiansut\QUANTAXIS   
+by romepeng : romepeng@outlook.com
+I　ｗｉｌｌ　ｃｈａｎｇｅ　ｓｏｎｅ　ｃｏｄｅ　ｂｙ　ｍｙ　ｎｅｅｄ．
 # QUANTAXIS 量化金融策略框架
 
 ------------------
-
+ｄ
 ## 写在你看本项目之前:
 
 作者强烈推荐 如果你不是二次开发人员或者对于python以及数据处理有极大兴趣对同学 在看完安装教程后直接移步QAStrategy项目来开始你的第一个策略
